@@ -6,11 +6,7 @@ This project is an implementation of a command-line application in OCaml that ca
 
 ## Getting Started
 
-To run the application, follow the steps below:
-
-1. Clone the `hw2041-f20` repository and navigate to the `hw3` directory.
-
-2. Compile the application using the following command:
+To run the application, compile the application using the following command:
 
    ```
    ocamlopt -o findsim fTools.ml similar.ml findsim.ml
