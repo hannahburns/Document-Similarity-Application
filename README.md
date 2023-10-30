@@ -59,3 +59,23 @@ The application can be tested using the provided representative and target files
 ## Conclusion
 
 This command-line application efficiently calculates document similarity without explicit recursion or looping. It is suitable for a wide range of applications, from content recommendation systems to plagiarism detection. The implementation is both functional and efficient, and it follows best practices for OCaml programming.
+
+## License
+
+Copyright © Hannah Burns 2023
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This means that you are free to:
+
+- Share — You can copy and redistribute the material in any medium or format.
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- NonCommercial — You may not use the material for commercial purposes.
+
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+You are free to use this work for personal and educational purposes, but you may not use it for commercial gain, and you cannot create derivative works based on it without permission.
